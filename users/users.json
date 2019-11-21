@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Tony stark",
+        "username": "tonystark",
+        "email": "tony.stark@kory.com",
+        "phone": "54654354",
+        "website": "tonystark.com",
+        "extension": "jpg",
+        "picture": "showprime.png"
+    },
+    {
+        "id": 2,
+        "name": "steve rogers",
+        "username": "steve2",
+        "email": "steverogers@kory.org",
+        "phone": "123451234",
+        "website": "steverogers.com",
+        "extension": "jpeg",
+        "picture": "220px-Robert_Downey_Jr._as_Iron_Man_in_Avengers_Infinity_War.jpg"
+    },
+    {
+        "id": 3,
+        "name": "bruce banner",
+        "username": "bruce",
+        "email": "brucebanner@kory.org",
+        "phone": "123451234",
+        "website": "brucebanner.com",
+        "extension": "jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        "username": "Karianne",
+        "email": "Julianne.OConner@kory.org",
+        "phone": "123451234",
+        "website": "kale.biz2",
+        "extension": "jpeg"
+    }
+]
